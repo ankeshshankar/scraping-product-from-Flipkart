@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GetPrice</string>
+    <string name="enter_product_name">Enter Product Name</string>
+    <string name="search">Search</string>
+    <array name="product_type">
+        <item>Select Product Type</item>
+        <item>Electronics</item>
+        <item>Home</item>
+        <item>Sports</item>
+        <item>Books</item>
+        <item>Vehicle</item>
+    </array>
+</resources>
